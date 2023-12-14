@@ -1,0 +1,249 @@
+[
+    {
+        "id": "Cinta RGB-01",
+        "titulo": "Cinta RGB simple a bluetooth de 5 metros",  
+        "imagen": "./img/cintasRGB/Pro1.jpeg",
+        "categoria": {
+            "nombre": "Cintas led RGB",
+            "id": "abrigos"
+        },
+        "precio": 85
+    },
+    {
+        "id": "Cinta RGB-02",
+        "titulo": "Cinta RGB completa a bluetooth de 5 metros",
+        "imagen": "./img/cintasRGB/Pro2.jpg",
+        "categoria": {
+            "nombre": "Cintas led RGB",
+            "id": "abrigos"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Cinta RGB-03",
+        "titulo": "Cinta RGB completa a bluetooth de 10 metros",
+        "imagen": "./img/cintasRGB/Pro4.jpg",
+        "categoria": {
+            "nombre": "Cintas led RGB",
+            "id": "abrigos"
+        },
+        "precio": 160
+    },
+    {
+        "id": "Cinta RGB-04",
+        "titulo": "Cinta RGB completa a WIFI de 5 metros",
+        "imagen": "./img/cintasRGB/Pro3.jpg",
+        "categoria": {
+            "nombre": "Cintas led RGB",
+            "id": "abrigos"
+        },
+        "precio": 135
+    },
+    {
+        "id": "Cinta RGB-05",
+        "titulo": "Cinta RGB completa a WIFI de 10 metros",
+        "imagen": "./img/cintasRGB/Pro5.jpg",
+        "categoria": {
+            "nombre": "Cintas led RGB",
+            "id": "abrigos"
+        },
+        "precio": 180
+    },
+
+
+    {
+        "id": "Lampara-01",
+        "titulo": "Lampara de Eren 3D",
+        "imagen": "./img/lamparas3D/1.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Lampara-02",
+        "titulo": "Lampara de Eren, Levi y Mikasa 3D",
+        "imagen": "./img/lamparas3D/2.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Lampara-03",
+        "titulo": "Lampara Alas de libertad 3D",
+        "imagen": "./img/lamparas3D/3.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Lampara-04",
+        "titulo": "Lampara de Goku 3D",
+        "imagen": "./img/lamparas3D/4.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Lampara-05",
+        "titulo": "Lampara de Goku 3D",
+        "imagen": "./img/lamparas3D/5.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Lampara-06",
+        "titulo": "Lampara de Kakashi 3D",
+        "imagen": "./img/lamparas3D/6.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Lampara-07",
+        "titulo": "Lampara de Zero Two 3D",
+        "imagen": "./img/lamparas3D/7.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Lampara-08",
+        "titulo": "Lampara de L 3D",
+        "imagen": "./img/lamparas3D/8.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Lampara-09",
+        "titulo": "Lampara de Levi Akerman 3D",
+        "imagen": "./img/lamparas3D/9.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Lampara-10",
+        "titulo": "Lampara de Luffy 3D",
+        "imagen": "./img/lamparas3D/10.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Lampara-11",
+        "titulo": "Lampara de Mikasa Akerman 3D",
+        "imagen": "./img/lamparas3D/11.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Lampara-12",
+        "titulo": "Lampara de Naruto 3D",
+        "imagen": "./img/lamparas3D/12.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Lampara-13",
+        "titulo": "Lampara de Naruto 3D",
+        "imagen": "./img/lamparas3D/13.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Lampara-14",
+        "titulo": "Lampara de Senku 3D",
+        "imagen": "./img/lamparas3D/14.jpg",
+        "categoria": {
+            "nombre": "Lamparas RGB 3D",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+
+
+
+
+    {
+        "id": "Auriculares-01",
+        "titulo": "Auriculares MODELO M.10",
+        "imagen": "./img/audifonos/1.jpg",
+        "categoria": {
+            "nombre": "Auriculares Inalambricos",
+            "id": "pantalones"
+        },
+        "precio": 70
+    },
+    {
+        "id": "Auriculares-02",
+        "titulo": "Auriculares MODELO Tws-x15",
+        "imagen": "./img/audifonos/2.jpg",
+        "categoria": {
+            "nombre": "Auriculares Inalambricos",
+            "id": "pantalones"
+        },
+        "precio": 90
+    },
+    {
+        "id": "Auriculares-03",
+        "titulo": "Auriculares MODELO RAZER HAMMERHEAD X",
+        "imagen": "./img/audifonos/3.jpg",
+        "categoria": {
+            "nombre": "Auriculares Inalambricos",
+            "id": "pantalones"
+        },
+        "precio": 130
+    },
+    {
+        "id": "Auriculares-04",
+        "titulo": "Auriculares MODELO TOMATE GAMER",
+        "imagen": "./img/audifonos/4.jpg",
+        "categoria": {
+            "nombre": "Auriculares Inalambricos",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Auriculares-05",
+        "titulo": "Auriculares MODELO Aquatic BTH-F9-5",
+        "imagen": "./img/audifonos/5.jpg",
+        "categoria": {
+            "nombre": "Auriculares Inalambricos",
+            "id": "pantalones"
+        },
+        "precio": 70
+    }
+
+]
